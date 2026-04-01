@@ -5791,7 +5791,6 @@
               return e > 0 ? 1 - 1 / (1.001 - e) : -e;
             }
             let ti = {
-              API_URL: "https://api.mapbox.com",
               get API_URL_REGEX() {
                 return /^((https?:)?\/\/)?([^\/]+\.)?mapbox\.c(n|om)(\/|\?|$)/i;
               },

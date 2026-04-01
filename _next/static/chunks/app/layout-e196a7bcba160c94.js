@@ -64,8 +64,8 @@
               title: "Socials",
               links: [
                 [
-                  { title: "Telegram", slug: "https://t.me/your_username" },
-                  { title: "Twitter", slug: "https://x.com/your_username" },
+                  { title: "Telegram", slug: "https://t.me/BlockDAGnetwork_Portal" },
+                  { title: "Twitter", slug: "https://x.com/BDAGnetworkCoin" },
                   { title: "Dexscreener", slug: "https://dexscreener.com/ethereum/0xComingSoon" },
                   { title: "Uniswap", slug: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xComingSoon" },
                 ],
@@ -109,12 +109,12 @@
                             {
                               title: "X",
                               img: "/icons/socials/x.svg",
-                              slug: "https://x.com/your_username",
+                              slug: "https://x.com/BDAGnetworkCoin",
                             },
                             {
                               title: "Telegram",
                               img: "/icons/socials/telegram.svg",
-                              slug: "https://t.me/your_username",
+                              slug: "https://t.me/BlockDAGnetwork_Portal",
                             }
                           ].map((e) =>
                             (0, s.jsx)(
